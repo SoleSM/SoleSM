@@ -3,9 +3,8 @@
 
 - 🌱 I'm currently learning **more about frontend technologies.**
 
-- 📫 How to reach me **miliserrrano@gmail.com**
+- 📫 **miliserrrano@gmail.com**
 
-- ⚡ Fun fact **I'm a 3rd generation kpop fan and I love doing pixel art in minecraft 🖼️.**
 
 
 <h3 align="left">Languages and Tools:</h3>
